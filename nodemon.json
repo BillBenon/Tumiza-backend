@@ -3,6 +3,7 @@
         "DB_USER": "billbenon",
         "DB_PASSWORD": "billbenon",
         "DB_NAME": "Tumiza",
-        "JWT_KEY": "tUmizAteaM**#$B&S&H&V"
+        "JWT_KEY": "tUmizAteaM**#$B&S&H&V",
+        "PORT": 8080
     }
 }
